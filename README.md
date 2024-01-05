@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://your-solution-url.com)
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/blog-preview-card-only-with-flexbox-ikAZO_OD8F)
+- Live Site URL: [Link](https://b-viv.github.io/blog_preview_card/)
 
 ## My process
 
